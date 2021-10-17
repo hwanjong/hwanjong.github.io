@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leader - Hwanjong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hwanjong(Leader)"
+  avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
   email            :
